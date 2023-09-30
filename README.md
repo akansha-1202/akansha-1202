@@ -1,4 +1,4 @@
-![logo](https://github.com/akansha-1202/akansha-1202/blob/main/banner.jpg)
+![logo](https://camo.githubusercontent.com/227c7a3e047d93381621fc93ad12444a8ad8b7cd999496eff6cbc40b32baf7e6/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31312f6865616465725f62616e6e65722e6a7067)
 
 <h1 align="center">Hi 👋, I'm Akansha Verma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
