@@ -1,5 +1,3 @@
-![logo](https://camo.githubusercontent.com/227c7a3e047d93381621fc93ad12444a8ad8b7cd999496eff6cbc40b32baf7e6/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31312f6865616465725f62616e6e65722e6a7067)
-
 <h1 align="center">Hi 👋, I'm Akansha Verma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -8,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akansha-1202&label=Profile%20views&color=0e75b6&style=flat" alt="akansha-1202" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/akansha-1202/overview](https://app.netlify.com/teams/akansha-1202/overview)
 
