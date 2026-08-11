@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akansha-1202&label=Profile%20views&color=0e75b6&style=flat" alt="akansha-1202" /> </p>
 
-- 🌱 I’m currently learning : Headerbidding
+- 🌱 I’m currently learning : Typescript
   
 - Portfolio : https://akansha-portfolio-sigma.vercel.app
 
